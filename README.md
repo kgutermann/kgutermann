@@ -28,7 +28,7 @@
 
 ###
 
-<p align="center">I have omitted self-explanatory (prerequisite) items (HTML, CSS, JS)</p>
+<p align="center">I have left out self-explanatory (assumed) points (HTML, CSS, JS)</p>
 
 ###
 
